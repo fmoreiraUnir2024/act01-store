@@ -1,6 +1,6 @@
 
-const DetailsCar =() =>{
-    const {carro }= this.props
+const DetailsCar =({carro }) =>{
+    
     return (
         <div className="detallesCarro">
                     <ul  ul >

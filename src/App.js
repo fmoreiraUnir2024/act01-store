@@ -82,11 +82,11 @@ function App() {
       />
        <Routes>
           <Route path="/home" element={<Home/>} />          
-          <Route  agregarAlCarro={agregarAlCarro}
-          productos={state.productos} path="/layout" element={ <Layout>
+          <Route path="/layout" element={ <Layout>
             <Title />
             <Productos
               agregarAlCarro={agregarAlCarro}
+             
               productos={
                (!state.productosFiltrados.length==0) ?
                 state.productosFiltrados: state.productos}

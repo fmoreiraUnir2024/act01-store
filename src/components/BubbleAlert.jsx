@@ -1,8 +1,12 @@
-const BubbleAlert =() =>{
-  
+
+const BubbleAlert =({ value }) =>{
+  const getNumber=(n) =>{
+      if(!n) {  return ' '}
+      return n> 9 ? '9+' : n
+  }
     return (
         <span className="bubbleAlert"  >
-            1
+            {getNumber(value)}
          </span>
     
     )

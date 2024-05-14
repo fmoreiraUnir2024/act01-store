@@ -1,11 +1,13 @@
-const Home =(props) =>{
-  
+const Home = (props) => {
+
     return (
-       <h1>Hola soyr el HOME</h1>
-    
+        <div>
+            <h1>BIENVENIDO A CARROLIFE!!!</h1>
+            <img  src="https://www.shutterstock.com/image-vector/vector-car-rental-social-media-600nw-2311105211.jpg"/>
+        </div>
+
     )
-    
-    }
-    
+
+}
+
 export default Home;
-    
