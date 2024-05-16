@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/act01-store/static/css/main.224059a8.css",
-    "main.js": "/act01-store/static/js/main.ed8402ce.js",
-    "static/js/453.fef07d04.chunk.js": "/act01-store/static/js/453.fef07d04.chunk.js",
-    "static/media/logo.svg": "/act01-store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/act01-store/index.html",
-    "main.224059a8.css.map": "/act01-store/static/css/main.224059a8.css.map",
-    "main.ed8402ce.js.map": "/act01-store/static/js/main.ed8402ce.js.map",
-    "453.fef07d04.chunk.js.map": "/act01-store/static/js/453.fef07d04.chunk.js.map"
+    "main.css": "/act01-store/build/static/css/main.224059a8.css",
+    "main.js": "/act01-store/build/static/js/main.563e9451.js",
+    "static/js/453.fef07d04.chunk.js": "/act01-store/build/static/js/453.fef07d04.chunk.js",
+    "static/media/logo.svg": "/act01-store/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/act01-store/build/index.html",
+    "main.224059a8.css.map": "/act01-store/build/static/css/main.224059a8.css.map",
+    "main.563e9451.js.map": "/act01-store/build/static/js/main.563e9451.js.map",
+    "453.fef07d04.chunk.js.map": "/act01-store/build/static/js/453.fef07d04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.224059a8.css",
-    "static/js/main.ed8402ce.js"
+    "static/js/main.563e9451.js"
   ]
 }
