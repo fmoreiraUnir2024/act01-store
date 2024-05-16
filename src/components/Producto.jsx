@@ -18,7 +18,7 @@ const Producto = ({ producto, agregarAlCarro, seleccionarProducto  }) => {
             </Link>
             <Button className="product__button" 
             onClick={() => agregarAlCarro(producto)}>
-                Agregar al carro
+                Agregar el carrito de juguete
             </Button>
             </div>
            

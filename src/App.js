@@ -21,7 +21,7 @@ function App() {
         description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.....',
         anio:'2020',
         ubicacion:'Quito',
-        price: '$ 1500',
+        price: '$ 15',
         img: 'https://res.cloudinary.com/durxpegdm/image/upload/v1715664206/PORTAFOLIO/m2temyu3txw10c898a7d.png',
 
       },
@@ -31,7 +31,7 @@ function App() {
         description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.....',
         anio:'2022',
         ubicacion:'Guayaquil',
-        price: '$ 25861',        
+        price: '$ 25',        
         img: 'https://res.cloudinary.com/durxpegdm/image/upload/v1715664204/PORTAFOLIO/nfbdvcr0rl32kljciydf.avif'
       },
       {
@@ -40,7 +40,7 @@ function App() {
         description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.....',
         anio:'2022',
         ubicacion:'Guayaquil',
-        price: 25900,
+        price: '$ 25',
         img: 'https://res.cloudinary.com/durxpegdm/image/upload/v1715664203/PORTAFOLIO/hjgg58kqgnbwkyv4pzkp.png'
       },
       {
@@ -49,7 +49,7 @@ function App() {
         description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.....',
         anio:'2022',
         ubicacion:'Guayaquil',
-        price: 25900,
+        price: '$ 25',
         img: 'https://res.cloudinary.com/durxpegdm/image/upload/v1715664202/PORTAFOLIO/kcs7ib1cpv67knb8gbuf.jpg'
       },
       {
@@ -58,7 +58,7 @@ function App() {
         description:'Lorem Ipsum is simply dummy text of the printing and typesetting industry.....',
         anio:'2022',
         ubicacion:'Ambato',
-        price: 18900,
+        price: '$ 25',
         img: 'https://res.cloudinary.com/durxpegdm/image/upload/v1715664497/PORTAFOLIO/froq8fqtj44sdxabdok6.png'
       }
     ],
