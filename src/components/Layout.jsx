@@ -2,7 +2,7 @@ const Layout =({children}) =>{
   
     return (
         <div className="layout" >
-                <div className="container" >
+                <div className="layout__container" >
                     {children}
                 </div>
                

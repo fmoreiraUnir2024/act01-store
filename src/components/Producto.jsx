@@ -12,7 +12,7 @@ const Producto = ({ producto, agregarAlCarro, seleccionarProducto  }) => {
             <p>{producto.description}</p>
             <p><b>Precio:</b>  {producto.price}  
             <br></br> <b>Año:</b> {producto.anio} <b>Ubicación:</b>    {producto.ubicacion}</p>
-            <div className='group-button'>
+            <div className='product__group-button'>
             <Link className="product__button"  onClick={() => seleccionarProducto()} to="/ViewProduct"  >
                 Ver
             </Link>

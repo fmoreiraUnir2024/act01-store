@@ -8,15 +8,15 @@ const Searcher = ({ onBuscar }) => {
     };
 
     return (
-        <div className="search-container">
-            <input className="search-container__input"
+        <div className="search__container">
+            <input className="search__container-input"
              type="text"
              placeholder="Ingrese el texto a buscar"
              value={busqueda}
              onChange={(e) => setBusqueda(e.target.value)} 
 
             />
-            <Button className="search-container__button" onClick={handleBuscar}  >
+            <Button className="search__container-button" onClick={handleBuscar}  >
                 Buscar
             </Button>
         </div>
