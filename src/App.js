@@ -114,7 +114,7 @@ function App() {
         onBuscar={handleBuscar}
       />
        <Routes>
-          <Route path="/home" element={<Home/>} />
+          <Route path="/" element={<Home/>} />
           <Route path="/ViewProduct" element={
           <ViewProduct 
           producto={productoSeleccionado}>
@@ -133,7 +133,7 @@ function App() {
           </Layout>} />
                 
         </Routes>
-     
+       
     </div>
   );
 }

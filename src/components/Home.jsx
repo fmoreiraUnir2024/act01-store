@@ -27,7 +27,7 @@ const Home = (props) => {
       <div className="car__header">
         <h2>Bienvenido a CarroLife</h2>
         <h5>Puedes buscar los carros y solicitarlos a la concesionaria </h5>
-        <button className="car__button" onClick={handleButtonClick}>Click para sorprederte!!</button>
+        <button className="car__button" onClick={handleButtonClick}>Click para cambiar!!</button>
       </div>
       <div className="car__content">
         <div className="car__image-container">                     

@@ -8,7 +8,7 @@ const Navbar = ({ carro, esCarroVisible, mostrarCarro, productos, onBuscar }) =>
     return (
         <nav className="navbar">
             <Logo />
-            <Link className="navbar__link" to="/home">
+            <Link className="navbar__link" to="/">
             <img className='navbar__link--ico' width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/home.png" alt="home"/>
                 Home</Link>
             <Link className="navbar__link" to="/layout">
